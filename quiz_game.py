@@ -4,3 +4,5 @@ playing = input("Dp you want to play? ")
 
 if playing != "yes":
     quit()
+else:
+    print("Playing")
